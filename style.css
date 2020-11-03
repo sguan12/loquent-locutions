@@ -90,12 +90,6 @@ li a:hover{
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    /* padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
-    background-color: #ffffff71;    
-    border-radius: 100px; */
 }
 #twisters-title {
     font-size: 4em;
@@ -202,7 +196,6 @@ button {
     width: 3px;
     height: 3px;
     background: transparent;
-    /* added "9b" for opacity and translated 30 px to the left from the original*/
     box-shadow: 860px 569px #ffffff9b, 1583px 813px #ffffff9b, 193px 252px #ffffff9b, 953px 1093px #ffffff9b, 696px 1029px #ffffff9b, 1734px 778px #ffffff9b, 592px 
     1643px #ffffff9b, 144px 1559px #ffffff9b, 182px 517px #ffffff9b, 310px 505px #ffffff9b, 1670px 39px #ffffff9b, 1738px 516px #ffffff9b, 819px 391px #ffffff9b, 198px 1824px #ffffff9b, 1089px 1680px #ffffff9b, 782px 1480px #ffffff9b, 1408px 1585px #ffffff9b, 107px 1397px #ffffff9b, 1050px 456px #ffffff9b, 1178px 1437px #ffffff9b, 827px 281px #ffffff9b, 1224px 1306px #ffffff9b, 957px 990px #ffffff9b, 1625px 911px #ffffff9b, 1072px 1216px #ffffff9b, 1777px 1044px #ffffff9b, 630px 435px #ffffff9b, 269px 678px #ffffff9b, 1163px 115px #ffffff9b, 888px 290px #ffffff9b, 1417px 1422px #ffffff9b, 61px 1273px #ffffff9b, 78px 223px #ffffff9b, 116px 754px #ffffff9b, 431px 1446px #ffffff9b, 974px 391px #ffffff9b, 1499px 516px #ffffff9b, 1176px 845px #ffffff9b, 317px 583px #ffffff9b, 1072px 1332px #ffffff9b, 679px 1756px #ffffff9b, 1942px 248px #ffffff9b, 1639px 1344px #ffffff9b, 1102px 406px #ffffff9b, 290px 1076px #ffffff9b, 96px 943px #ffffff9b, 233px 604px #ffffff9b, 1516px 692px #ffffff9b, 541px 173px #ffffff9b, 1702px 143px #ffffff9b, 1715px 454px #ffffff9b, 204px 784px #ffffff9b, 1763px 1123px #ffffff9b, 1046px 504px #ffffff9b, 603px 601px #ffffff9b, 320px 630px #ffffff9b, 1134px 782px #ffffff9b, 46px 690px #ffffff9b, 1795px 701px #ffffff9b, 1616px 578px #ffffff9b, 514px 293px #ffffff9b, 415px 1061px #ffffff9b, 898px 47px #ffffff9b, 138px 1410px #ffffff9b, 747px 782px #ffffff9b, 1205px 1941px #ffffff9b, 74px 1690px #ffffff9b, 1137px 1338px #ffffff9b, 315px 1652px #ffffff9b, 1652px 1196px #ffffff9b, 1965px 494px #ffffff9b, 398px 798px #ffffff9b, 310px 1623px #ffffff9b, 575px 349px #ffffff9b, 1309px 1344px #ffffff9b, 1072px 1745px #ffffff9b, 1562px 1676px #ffffff9b, 389px 1024px #ffffff9b, 600px 1033px #ffffff9b, 1965px 1644px #ffffff9b, 1062px 712px #ffffff9b, 1325px 606px #ffffff9b, 592px 1881px #ffffff9b, 1451px 621px #ffffff9b, -11px 1348px #ffffff9b, 834px 1780px #ffffff9b, 412px 1136px #ffffff9b, 37px 712px #ffffff9b, 59px 1406px #ffffff9b, 245px 321px #ffffff9b, 562px 630px #ffffff9b, 982px 1690px #ffffff9b, 1719px 23px #ffffff9b, 64px 1542px #ffffff9b, 1171px 1657px #ffffff9b, 1475px 692px #ffffff9b, 1769px 601px #ffffff9b, 626px 811px #ffffff9b, 671px 597px #ffffff9b, 1172px 46px #ffffff9b;
     animation: star 20s linear infinite;
@@ -213,7 +206,6 @@ button {
     width: 3px;
     height: 3px;
     background: transparent;
-    /* added "6b" to adjust opacity */
     box-shadow: 890px 569px #ffffff6b, 1613px 813px #ffffff6b, 223px 252px #ffffff6b, 983px 1093px #ffffff6b, 726px 1029px #ffffff6b, 1764px 778px #ffffff6b, 622px 
     1643px #ffffff6b, 174px 1559px #ffffff6b, 212px 517px #ffffff6b, 340px 505px #ffffff6b, 1700px 39px #ffffff6b, 1768px 516px #ffffff6b, 849px 391px #ffffff6b, 228px 1824px #ffffff6b, 1119px 1680px #ffffff6b, 812px 1480px #ffffff6b, 1438px 1585px #ffffff6b, 137px 1397px #ffffff6b, 1080px 456px #ffffff6b, 1208px 1437px #ffffff6b, 857px 281px #ffffff6b, 1254px 1306px #ffffff6b, 987px 990px #ffffff6b, 1655px 911px #ffffff6b, 1102px 1216px #ffffff6b, 1807px 1044px #ffffff6b, 660px 435px #ffffff6b, 299px 678px #ffffff6b, 1193px 115px #ffffff6b, 918px 290px #ffffff6b, 1447px 1422px #ffffff6b, 91px 1273px #ffffff6b, 108px 223px #ffffff6b, 146px 754px #ffffff6b, 461px 1446px #ffffff6b, 1004px 391px #ffffff6b, 1529px 516px #ffffff6b, 1206px 845px #ffffff6b, 347px 583px #ffffff6b, 1102px 1332px #ffffff6b, 709px 1756px #ffffff6b, 1972px 248px #ffffff6b, 1669px 1344px #ffffff6b, 1132px 406px #ffffff6b, 320px 1076px #ffffff6b, 126px 943px #ffffff6b, 263px 604px #ffffff6b, 1546px 692px #ffffff6b, 571px 173px #ffffff6b, 1732px 143px #ffffff6b, 
     1745px 454px #ffffff6b, 234px 784px #ffffff6b, 1793px 1123px #ffffff6b, 1076px 504px #ffffff6b, 633px 601px #ffffff6b, 350px 630px #ffffff6b, 1164px 
