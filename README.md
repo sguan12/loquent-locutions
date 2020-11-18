@@ -1,3 +1,3 @@
 # loquent-locutions
 
-Personal project just for fun :) Website that transitions backgrounds and generates random tongue twisters.
+Personal project to learn webscraping, CSS animations, etc. Website that transitions backgrounds and generates random tongue twisters.
